@@ -1,0 +1,10 @@
+http://symbologic.info/currency.htm
+
+====================================
+
+CURRENCY LAYER.COM (API FOR CURRENCY TRANSFER)
+==============================================
+
+1. documentaion link - https://currencylayer.com/documentation
+
+RESTful API which requires min basic Paid Plan $ 9.99 per month
