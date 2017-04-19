@@ -93,33 +93,35 @@ $conversionResult = json_decode($json, true);
 ## Preview
 
 
-![Screenshot of LinkedIn Login API Page 1 ](https://cloud.githubusercontent.com/assets/15896579/24588640/a738540a-17e9-11e7-8598-c8584ebf0721.png?raw=true "Screenshot of LinkedIn Login API Page 1")
+![Screenshot of China Converted Currency Value ](https://cloud.githubusercontent.com/assets/15896579/25192814/5589d5d6-2552-11e7-9bbf-93c818237542.png?raw=true "Screenshot of China Converted Currency Value")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn Login API Page 2](https://cloud.githubusercontent.com/assets/15896579/24588641/aa385376-17e9-11e7-9cf1-320aa39360f6.png?raw=true "Screenshot of LinkedIn Login API Page 2")
+![Screenshot of Germany Converted Currency Value ](https://cloud.githubusercontent.com/assets/15896579/25192817/575e9fea-2552-11e7-893f-c1dccc9fe730.png?raw=true "Screenshot of Germany Converted Currency Value")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn Login API Page 3](https://cloud.githubusercontent.com/assets/15896579/24588642/aea3e736-17e9-11e7-96fa-5c13f5e54358.png?raw=true "Screenshot of LinkedIn Login API Page 3")
+![Screenshot of Iran Converted Currency Value ](https://cloud.githubusercontent.com/assets/15896579/25192818/5979232c-2552-11e7-98ec-9e53f0c6955f.png?raw=true "Screenshot of Iran Converted Currency Value")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn Login API Page 4](https://cloud.githubusercontent.com/assets/15896579/24588643/b25e04b0-17e9-11e7-9c65-7d3749819624.png?raw=true "Screenshot of LinkedIn Login API Page 4")
+![Screenshot of Currency Table Page 1](https://cloud.githubusercontent.com/assets/15896579/25192823/5b1ae198-2552-11e7-8cf8-b9017353d904.png?raw=true "Screenshot of Currency Table Page 1")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588644/b7978ea6-17e9-11e7-80ef-595f25b69b0d.png?raw=true "Screenshot of LinkedIn APP Dashboard")
+![Screenshot of Currency Table Page 2](https://cloud.githubusercontent.com/assets/15896579/25192825/5eaed850-2552-11e7-850b-dae6f2fe4fe4.png?raw=true "Screenshot of Currency Table Page 2")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588646/bca3ecfa-17e9-11e7-9489-c92a8a00ae1c.png?raw=true "Screenshot of LinkedIn APP Dashboard")
-
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588647/c0acdf00-17e9-11e7-98bf-7f4ee287a500.png?raw=true "Screenshot of LinkedIn APP Dashboard")
+![Screenshot of Currency Layer Dashboard Page 1](https://cloud.githubusercontent.com/assets/15896579/25192852/767bc790-2552-11e7-9e69-0703c94ed985.png?raw=true "Screenshot of Currency Layer Dashboard Page 1")
 <br/><br/><br/>
 
-![Screenshot of LinkedIn APP Dashboard](https://cloud.githubusercontent.com/assets/15896579/24588648/c44372fa-17e9-11e7-96c9-87a907f7139a.png?raw=true "Screenshot of LinkedIn APP Dashboard")
+![Screenshot of Currency Layer Dashboard Page 2](https://cloud.githubusercontent.com/assets/15896579/25192865/7a8b7f92-2552-11e7-844b-bbb68fd87505.png?raw=true "Screenshot of Currency Layer Dashboard Page 2")
+<br/><br/><br/>
 
+![Screenshot of Currency Layer Dashboard Page 3](https://cloud.githubusercontent.com/assets/15896579/25192870/7ef15980-2552-11e7-92a7-084bb42a6556.png?raw=true "Screenshot of Currency Layer Dashboard Page 3")
+<br/><br/><br/>
 
+![Screenshot of Currency Layer Dashboard Page 4](https://cloud.githubusercontent.com/assets/15896579/25192875/840ec196-2552-11e7-8437-085430df8d75.png?raw=true "Screenshot of Currency Layer Dashboard Page 4")
 <br/><br/><br/>
 
 
-
+<br/><br/><br/>
 
 ## License
 
