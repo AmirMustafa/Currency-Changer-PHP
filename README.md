@@ -89,6 +89,12 @@ $conversionResult = json_decode($json, true);
 
 ?>
 ```
+
+8. Default current value is hardcoded to 500 Bucks, change it as per your requirements
+
+```
+$amount = 500;   //change it as per your requirement
+```
   
 ## Preview
 
