@@ -10,10 +10,10 @@ Previews are added for better understanding. Technology used is PHP<br/><br/><br
 1. Clone or Download the repository and keep it in server or local server(like XAMPP).
 2. Create a database and upload the currencies.sql file
 3. Open connection.php and configure your database like below
-```<?php
-
+```
+<?php
 	
-	$conn = mysqli_connect("localhost", "your_username", "your_password", "your_database_name");  // connect to database
+	$conn = mysqli_connect("localhost", "your_username", "your_password", "your_database_name");
 
 ?>
 ```
