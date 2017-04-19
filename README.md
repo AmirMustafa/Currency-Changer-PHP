@@ -111,7 +111,7 @@ $conversionResult = json_decode($json, true);
 ![Screenshot of Currency Layer Dashboard Page 1](https://cloud.githubusercontent.com/assets/15896579/25192852/767bc790-2552-11e7-9e69-0703c94ed985.png?raw=true "Screenshot of Currency Layer Dashboard Page 1")
 <br/><br/><br/>
 
-![Screenshot of Currency Layer Dashboard Page 2](https://cloud.githubusercontent.com/assets/15896579/25192865/7a8b7f92-2552-11e7-844b-bbb68fd87505.png?raw=true "Screenshot of Currency Layer Dashboard Page 2")
+![Screenshot of Currency Layer Dashboard Page 2](https://cloud.githubusercontent.com/assets/15896579/25193240/076143c4-2554-11e7-9e36-e8f6da131e18.png?raw=true "Screenshot of Currency Layer Dashboard Page 2")
 <br/><br/><br/>
 
 ![Screenshot of Currency Layer Dashboard Page 3](https://cloud.githubusercontent.com/assets/15896579/25192870/7ef15980-2552-11e7-92a7-084bb42a6556.png?raw=true "Screenshot of Currency Layer Dashboard Page 3")
